@@ -1,0 +1,2 @@
+# 17_may-adjacent_sibling_desandent-selector
+17_may adjacent_sibling_desandent selector
